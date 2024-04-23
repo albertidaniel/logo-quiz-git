@@ -10,7 +10,7 @@ import Navigation from './component/navigation/navigation';
 import SignIn from './component/signin/signin';
 import Register from './component/register/register';
 import { cloneDeep } from 'lodash';
-import background from './bg.jpg';
+//import background from './bg.jpg';
 import Swal from 'sweetalert2';
 
 let LogoCheckedList = [];
