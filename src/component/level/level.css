@@ -1,0 +1,11 @@
+.tc {
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+@media only screen and (min-width: 1200px) {
+    .tc {
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+}

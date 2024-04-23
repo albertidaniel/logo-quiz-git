@@ -1,0 +1,9 @@
+.closed {
+    filter: brightness(30%);
+    /*opacity: 0.5;*/
+}
+
+.open {
+    filter: brightness(100%);
+    /*opacity: 1;*/
+}
